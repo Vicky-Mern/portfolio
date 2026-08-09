@@ -237,8 +237,8 @@ export const PROJECTS_DATA: Project[] = [
 
     images: loadProjectImages('portfolio'),
 
-    githubUrl: "",
-    liveDemoUrl: "",
+    githubUrl: "https://github.com/Vicky-Kr-Singh/portfolio",
+    liveDemoUrl: "/",
 
     tech: ["React.js", "Tailwind CSS", "Framer Motion", "Vite"],
     keyFeatures: [
