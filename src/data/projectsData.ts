@@ -238,7 +238,7 @@ export const PROJECTS_DATA: Project[] = [
     images: loadProjectImages('portfolio'),
 
     githubUrl: "https://github.com/Vicky-Kr-Singh/portfolio",
-    liveDemoUrl: "/",
+    liveDemoUrl: "https://portfolio-wheat-seven-h1gi6o8txi.vercel.app/",
 
     tech: ["React.js", "Tailwind CSS", "Framer Motion", "Vite"],
     keyFeatures: [
